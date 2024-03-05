@@ -1,0 +1,21 @@
+h1{
+    
+    text-transform:uppercase;
+    color:goldenrod;
+}
+body{
+    background-image:url("dulhan.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+div{
+    background-color: black;
+    color: white;
+    height: 50px;
+    
+    
+}
+a{
+    margin-left: 200px;
+    
+}
